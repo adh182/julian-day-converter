@@ -1,5 +1,5 @@
-#PROGRAM KONVERSI JULIAN DAY KE MASEHI
-#DAN MASEHI KE JULIAN DAY
+# PROGRAM KONVERSI JULIAN DAY KE MASEHI
+# DAN MASEHI KE JULIAN DAY
 ============================================
 
 Program ini mengkonversi Julian Day ke Masehi dan sebaliknya dengan menggunakan module yang telah dibuat.
